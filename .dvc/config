@@ -1,4 +1,4 @@
 [core]
     analytics = false
 ['remote "yd"']
-    url = /home/vadim/Yandex.Disk/contests/2020/YADC/dvc
+    url = /home/vadim/Yandex.Disk/Contests/dvc
